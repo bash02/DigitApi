@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+torch = "*"
+djangorestframework = "*"
+drf-nested-routers = "*"
+django-cors-headers = "*"
+pillow = "*"
+torchvision = "*"
+pytesseract = "*"
+transformers = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

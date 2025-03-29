@@ -1,0 +1,3 @@
+__pycache__/
+db.sqlite3  # Ignore SQLite database
+media/  # Ignore uploaded files
